@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695193482424",
+    "project_id": "playzone-b4241",
+    "storage_bucket": "playzone-b4241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695193482424:android:007156cd315e7c20b0704d",
+        "android_client_info": {
+          "package_name": "com.playzone.play"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxBage-UcsojDF9Dm4KHEPaClespZCRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
